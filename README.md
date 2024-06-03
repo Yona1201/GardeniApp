@@ -1,6 +1,6 @@
 # GardeniApp
 
-<img src="imagesGithub/GardeniApp.png" alt="mockup" width="200"/>
+<img src="imagesGithub/GardeniApp.png" alt="mockup" width="500"/>
 
 ## Getting Started
 
