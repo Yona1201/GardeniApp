@@ -1,6 +1,6 @@
 # GardeniApp
 
-![GardeniApp Logo](imagesGithub/GardeniApp.png)  <!-- This is how you include an image -->
+<img src="imagesGithub/GardeniApp.png" alt="mockup" width="200"/>
 
 ## Getting Started
 
