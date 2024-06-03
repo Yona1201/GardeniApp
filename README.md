@@ -1,6 +1,6 @@
-# gardeniapp
+# GardeniApp
 
-A new Flutter project.
+![GardeniApp Logo](imagesGithub/GardeniApp.png)  <!-- This is how you include an image -->
 
 ## Getting Started
 
