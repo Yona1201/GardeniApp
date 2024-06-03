@@ -1,6 +1,6 @@
 # GardeniApp
 
-<img src="imagesGithub/GardeniApp.png" alt="mockup" width="800"/>
+<img src="imagesGithub/GardeniApp.png" alt="mockup" width="700"/>
 <br></br>
 GardeniApp adalah aplikasi berbasis Flutter yang dirancang untuk toko bunga dan pelanggan. Desain UI dibuat dengan cermat menggunakan Figma, memastikan pengalaman pengguna yang mulus dan intuitif.
 
@@ -45,11 +45,9 @@ Mahasiswa FTI Universitas Tarumanagara
    - Pilih metode pembayaran yang diinginkan.
 
 9. **OrderFinish**
-   ![Tangkapan Layar Halaman Selesai Pesan](images/order_finish_page.png)
    - Ringkasan pesanan dan konfirmasi.
 
 10. **ProfilePage**
-    ![Tangkapan Layar Halaman Profil](images/profile_page.png)
     - Lihat dan edit profil, opsi logout.
 
 11. **TrackingPage**
