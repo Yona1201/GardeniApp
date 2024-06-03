@@ -1,6 +1,6 @@
 # GardeniApp
 
-<img src="imagesGithub/GardeniApp.png" alt="mockup" width="700"/>
+<img src="imagesGithub/GardeniApp.png" alt="mockup" width="800"/>
 <br></br>
 GardeniApp adalah aplikasi berbasis Flutter yang dirancang untuk toko bunga dan pelanggan. Desain UI dibuat dengan cermat menggunakan Figma, memastikan pengalaman pengguna yang mulus dan intuitif.
 
