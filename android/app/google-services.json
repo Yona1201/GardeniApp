@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "365315746811",
+    "project_id": "tes-notif-6fa2c",
+    "storage_bucket": "tes-notif-6fa2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365315746811:android:40d0dd99c163cff131f95e",
+        "android_client_info": {
+          "package_name": "com.example.gardeniapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365315746811-76id38i1s9vticcmfh3vlmbcro6m2qn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEp2KiAwvyd7Wqu5HzZ7Sjb6i-3GyOIvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365315746811-76id38i1s9vticcmfh3vlmbcro6m2qn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365315746811:android:e94a709b8f5b667331f95e",
+        "android_client_info": {
+          "package_name": "com.example.notifikasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365315746811-76id38i1s9vticcmfh3vlmbcro6m2qn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEp2KiAwvyd7Wqu5HzZ7Sjb6i-3GyOIvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365315746811-76id38i1s9vticcmfh3vlmbcro6m2qn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
